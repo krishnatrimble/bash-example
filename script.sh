@@ -19,9 +19,6 @@ echo -e "\033[33mCongratulations!\033[0m You've successfully run your build on B
 
 Welcome To Buildkite Trimble
 
-\033[31m<3\033[0m Buildkite
-"
-
 
 echo "+++ :frame_with_picture: Inline image uploaded as a build artifact"
 
